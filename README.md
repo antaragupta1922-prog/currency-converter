@@ -11,4 +11,4 @@ A modular Python command-line application for converting currencies (USD and EUR
 │
 ├── main.py          # Entry point and user menu interface
 └── src/
-└── converter.py # Core conversion logic and math operations```
+└── converter.py # Core conversion logic and math operations
